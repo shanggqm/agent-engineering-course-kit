@@ -188,9 +188,16 @@
       "lessons": [
         {
           "number": 15,
-          "title": "从任务约束到混合架构：完成 Agent Runtime 核心选型",
+          "title": "从 LLM Runtime 到 Agent Runtime：搭建 Agent 执行内核",
           "path": "chapters/chapter_05_agent_runtime/lesson_15_agent_runtime_selection",
-          "assets": []
+          "assets": [
+            {
+              "id": "lesson-15-learning-materials",
+              "title": "第 15 课 Agent 执行内核学习资料",
+              "path": "chapters/chapter_05_agent_runtime/lesson_15_agent_runtime_selection/learning-materials",
+              "status": "approved"
+            }
+          ]
         },
         {
           "number": 16,
