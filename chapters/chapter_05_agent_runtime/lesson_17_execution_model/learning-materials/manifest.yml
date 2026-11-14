@@ -1,0 +1,39 @@
+id: lesson-17-learning-materials
+title: 第 17 课混合 Workflow 学习资料
+course_name: 企业级Agent工程架构实战营
+curriculum_version: v5
+course_track: formal
+chapter_number: 5
+lesson_number: 17
+scope: lesson-learner-delivery
+status: review
+owner: guomeiqing
+updated: 2026-11-14
+path_base: asset-directory
+
+source:
+  repository: https://github.com/shanggqm/compass
+  feature: mai-specs/987-lesson-17-hybrid-workflow
+  path: mai-specs/987-lesson-17-hybrid-workflow/lesson-17-learning-materials.zip
+  commit: 2b5016e625b099e8351839875cb0616983cf521e
+  tag: compass/L17-complete
+  role: derived-distribution-copy
+
+deliverables:
+  - type: learner-materials-zip
+    path: lesson-17-learning-materials.zip
+    status: review
+    bytes: 1743564
+    sha256: 9f943d7e8551de252c6e4e5298e2da5b3bf7f09bb86f0fde1fac09158a0c7a2e
+    storage: git
+    contains:
+      - README.md
+      - PRD.md
+      - TECH_DESIGN.md
+      - TECH_DESIGN.html
+
+verification:
+  source_copy_sha256: matched
+  archive_integrity: passed
+  offline_reading: passed
+  engineering_acceptance: 独立工程节点通过检查、构建、数据库 SQL 一致性与 7 项混合 Workflow 集成测试。线上模型及生产部署验收留待部署环境。

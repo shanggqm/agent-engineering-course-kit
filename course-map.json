@@ -214,9 +214,16 @@
         },
         {
           "number": 17,
-          "title": "从聊天历史到统一执行模型：让每一步可持久化、可追踪、可重试",
+          "title": "从自主循环到混合编排：构建 Workflow + Agent 执行引擎",
           "path": "chapters/chapter_05_agent_runtime/lesson_17_execution_model",
-          "assets": []
+          "assets": [
+            {
+              "id": "lesson-17-learning-materials",
+              "title": "第 17 课混合 Workflow 学习资料",
+              "path": "chapters/chapter_05_agent_runtime/lesson_17_execution_model/learning-materials",
+              "status": "review"
+            }
+          ]
         },
         {
           "number": 18,
