@@ -201,9 +201,16 @@
         },
         {
           "number": 16,
-          "title": "从 while 循环到 Autonomous Harness：构建可验证的经营分析闭环",
+          "title": "从 ReAct 到 Plan-and-Execute：建立受控自主执行机制",
           "path": "chapters/chapter_05_agent_runtime/lesson_16_autonomous_harness",
-          "assets": []
+          "assets": [
+            {
+              "id": "lesson-16-learning-materials",
+              "title": "第 16 课受控自主执行学习资料",
+              "path": "chapters/chapter_05_agent_runtime/lesson_16_autonomous_harness/learning-materials",
+              "status": "review"
+            }
+          ]
         },
         {
           "number": 17,
