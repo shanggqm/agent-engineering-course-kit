@@ -15,15 +15,16 @@ source:
   repository: https://github.com/shanggqm/compass
   feature: mai-specs/988-lesson-16-controlled-autonomy
   path: mai-specs/988-lesson-16-controlled-autonomy/lesson-16-learning-materials.zip
-  commit: 574b631c3ad4b27b9cbba745228d8b6a4028bd3b
+  commit: f4402668b9fd930b21ee2eca5623939c98d517c7
+  tag: compass/L16-complete
   role: derived-distribution-copy
 
 deliverables:
   - type: learner-materials-zip
     path: lesson-16-learning-materials.zip
     status: review
-    bytes: 58286
-    sha256: 24d78d14ed783c08cf43393d912a43dfe49fefa3fc06b57543752d5e730be88d
+    bytes: 43027
+    sha256: 7ba7798ca272e9c1ddd4a833dfeab59fd8ae28b0a63f662429bbe8ed2cfc30a0
     storage: git
     contains:
       - README.md
@@ -35,4 +36,4 @@ verification:
   source_copy_sha256: matched
   archive_integrity: passed
   offline_reading: passed
-  engineering_acceptance: Compass 综合开发工作区 pnpm check 和 pnpm build 已通过。第 16 课工程节点与付费模型部署验收待完成。
+  engineering_acceptance: Compass 独立工程节点的检查、构建、PostgreSQL Retail 集成与 Chat 浏览器场景已通过。付费模型待部署验收。
