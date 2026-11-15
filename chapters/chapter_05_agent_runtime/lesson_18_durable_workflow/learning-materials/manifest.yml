@@ -1,0 +1,39 @@
+id: lesson-18-learning-materials
+title: 第 18 课统一工具执行与 Sandbox学习资料
+course_name: 企业级Agent工程架构实战营
+curriculum_version: v5
+course_track: formal
+chapter_number: 5
+lesson_number: 18
+scope: lesson-learner-delivery
+status: review
+owner: guomeiqing
+updated: 2026-11-15
+path_base: asset-directory
+
+source:
+  repository: https://github.com/shanggqm/compass
+  feature: mai-specs/986-lesson-18-tool-execution-sandbox
+  path: mai-specs/986-lesson-18-tool-execution-sandbox/lesson-18-learning-materials.zip
+  commit: 4685c85c187f450f348599a431365a5732c2ffcc
+  tag: compass/L18-complete
+  role: derived-distribution-copy
+
+deliverables:
+  - type: learner-materials-zip
+    path: lesson-18-learning-materials.zip
+    status: review
+    bytes: 1738912
+    sha256: 1fa00300e35c732bc0046cde6bed2cb91f41d85b0c33667f9bdd57e25d9ecf9d
+    storage: git
+    contains:
+      - README.md
+      - PRD.md
+      - TECH_DESIGN.md
+      - TECH_DESIGN.html
+
+verification:
+  source_copy_sha256: matched
+  archive_integrity: passed
+  offline_reading: passed
+  engineering_acceptance: 检查、构建、SQL 一致性、53 项 PostgreSQL 与 Sandbox 集成及 Chromium 专项通过。发布版 Retail 专项沿用历史实施记录。

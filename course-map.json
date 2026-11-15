@@ -227,9 +227,16 @@
         },
         {
           "number": 18,
-          "title": "用 Durable Workflow 收口自主分析：实现中断、审批与副作用闭环",
+          "title": "从 Tool Calling 到受控执行：构建 Tool Executor 与 Sandbox",
           "path": "chapters/chapter_05_agent_runtime/lesson_18_durable_workflow",
-          "assets": []
+          "assets": [
+            {
+              "id": "lesson-18-learning-materials",
+              "title": "第 18 课统一工具执行与 Sandbox学习资料",
+              "path": "chapters/chapter_05_agent_runtime/lesson_18_durable_workflow/learning-materials",
+              "status": "review"
+            }
+          ]
         },
         {
           "number": 19,
