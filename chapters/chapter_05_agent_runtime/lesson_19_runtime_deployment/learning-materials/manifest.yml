@@ -1,0 +1,40 @@
+id: lesson-19-learning-materials
+title: 第 19 课持久运行与 HITL学习资料
+course_name: 企业级Agent工程架构实战营
+curriculum_version: v5
+course_track: formal
+chapter_number: 5
+lesson_number: 19
+scope: lesson-learner-delivery
+status: review
+owner: guomeiqing
+updated: 2026-11-15
+path_base: asset-directory
+
+source:
+  repository: https://github.com/shanggqm/compass
+  feature: mai-specs/985-lesson-19-durable-runtime-hitl
+  path: mai-specs/985-lesson-19-durable-runtime-hitl/lesson-19-learning-materials.zip
+  commit: 9b5684d6be0889b7b1430d0ec2c63c372adedff6
+  tag: compass/L19-complete
+  role: derived-distribution-copy
+
+deliverables:
+  - type: learner-materials-zip
+    path: lesson-19-learning-materials.zip
+    status: review
+    bytes: 1857181
+    sha256: 33e02a93643b1fce5d6a5f69b9c4d9d0ed1f3b1055192e4e51bc933ec5779fff
+    storage: git
+    contains:
+      - README.md
+      - PRD.md
+      - TECH_DESIGN.md
+      - TECH_DESIGN.html
+      - HITL_DESIGN.html
+
+verification:
+  source_copy_sha256: matched
+  archive_integrity: passed
+  offline_reading: passed
+  engineering_acceptance: 检查、构建、22 项数据库、31 项持久运行专项及 14 项浏览器测试通过，跨课矩阵在隔离实例复跑通过。

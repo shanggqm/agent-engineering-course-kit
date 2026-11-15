@@ -8,5 +8,5 @@
 | 16 | [从 ReAct 到 Plan-and-Execute：建立受控自主执行机制](lesson_16_autonomous_harness/README.md) | [学习资料](lesson_16_autonomous_harness/learning-materials/README.md) |
 | 17 | [从自主循环到混合编排：构建 Workflow + Agent 执行引擎](lesson_17_execution_model/README.md) | [学习资料](lesson_17_execution_model/learning-materials/README.md) |
 | 18 | [从 Tool Calling 到受控执行：构建 Tool Executor 与 Sandbox](lesson_18_durable_workflow/README.md) | [学习资料](lesson_18_durable_workflow/learning-materials/README.md) |
-| 19 | [Runtime 部署形态选型：什么时候需要从单进程走向分布式？](lesson_19_runtime_deployment/README.md) | 待补充 |
+| 19 | [从内存循环到持久运行：构建 Run State、Checkpoint 与 Human-in-the-Loop](lesson_19_runtime_deployment/README.md) | [学习资料](lesson_19_runtime_deployment/learning-materials/README.md) |
 | 20 | [以故障为教材：证明 DataAgent 能跨故障完成任务](lesson_20_fault_recovery/README.md) | 待补充 |

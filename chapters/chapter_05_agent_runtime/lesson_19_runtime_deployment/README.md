@@ -1,5 +1,5 @@
-# 第 19 课｜Runtime 部署形态选型：什么时候需要从单进程走向分布式？
+# 第 19 课｜从内存循环到持久运行：构建 Run State、Checkpoint 与 Human-in-the-Loop
 
 [返回篇章](../README.md) · [全课导航](../../../README.md)
 
-配套内容将随课程进度补充。
+[学习资料包](learning-materials/README.md)包含 PRD、Markdown 技术方案和离线 HTML。 另可双击 `HITL_DESIGN.html` 阅读人工决策增量方案。

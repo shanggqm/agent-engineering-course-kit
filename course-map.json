@@ -240,9 +240,16 @@
         },
         {
           "number": 19,
-          "title": "Runtime 部署形态选型：什么时候需要从单进程走向分布式？",
+          "title": "从内存循环到持久运行：构建 Run State、Checkpoint 与 Human-in-the-Loop",
           "path": "chapters/chapter_05_agent_runtime/lesson_19_runtime_deployment",
-          "assets": []
+          "assets": [
+            {
+              "id": "lesson-19-learning-materials",
+              "title": "第 19 课持久运行与 HITL学习资料",
+              "path": "chapters/chapter_05_agent_runtime/lesson_19_runtime_deployment/learning-materials",
+              "status": "review"
+            }
+          ]
         },
         {
           "number": 20,
