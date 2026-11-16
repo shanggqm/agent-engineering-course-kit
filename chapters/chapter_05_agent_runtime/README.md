@@ -9,4 +9,4 @@
 | 17 | [从自主循环到混合编排：构建 Workflow + Agent 执行引擎](lesson_17_execution_model/README.md) | [学习资料](lesson_17_execution_model/learning-materials/README.md) |
 | 18 | [从 Tool Calling 到受控执行：构建 Tool Executor 与 Sandbox](lesson_18_durable_workflow/README.md) | [学习资料](lesson_18_durable_workflow/learning-materials/README.md) |
 | 19 | [从内存循环到持久运行：构建 Run State、Checkpoint 与 Human-in-the-Loop](lesson_19_runtime_deployment/README.md) | [学习资料](lesson_19_runtime_deployment/learning-materials/README.md) |
-| 20 | [以故障为教材：证明 DataAgent 能跨故障完成任务](lesson_20_fault_recovery/README.md) | 待补充 |
+| 20 | [从单进程到企业级 Runtime：实现异步调度、资源治理与可靠性验证](lesson_20_fault_recovery/README.md) | [学习资料](lesson_20_fault_recovery/learning-materials/README.md) |

@@ -253,9 +253,16 @@
         },
         {
           "number": 20,
-          "title": "以故障为教材：证明 DataAgent 能跨故障完成任务",
+          "title": "从单进程到企业级 Runtime：实现异步调度、资源治理与可靠性验证",
           "path": "chapters/chapter_05_agent_runtime/lesson_20_fault_recovery",
-          "assets": []
+          "assets": [
+            {
+              "id": "lesson-20-learning-materials",
+              "title": "第 20 课异步 Run 与 Worker 接管学习资料",
+              "path": "chapters/chapter_05_agent_runtime/lesson_20_fault_recovery/learning-materials",
+              "status": "review"
+            }
+          ]
         }
       ]
     },
