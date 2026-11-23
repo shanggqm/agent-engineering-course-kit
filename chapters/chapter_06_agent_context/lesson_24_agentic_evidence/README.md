@@ -1,5 +1,5 @@
-# 第 24 课｜企业知识与 Agentic Evidence：围绕信息缺口构建可核验的证据包
+# 第 24 课｜动态上下文选择与压缩——让每个 Token 发挥最大价值
 
 [返回篇章](../README.md) · [全课导航](../../../README.md)
 
-配套内容将随课程进度补充。
+[学习资料与离线技术方案](learning-materials/README.md)

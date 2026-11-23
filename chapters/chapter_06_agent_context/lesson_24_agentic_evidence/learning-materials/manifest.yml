@@ -1,0 +1,22 @@
+id: lesson-24-learning-materials
+lesson_number: 24
+course_track: formal
+status: review
+source:
+  repository: https://github.com/shanggqm/compass
+  feature: mai-specs/972-lesson-24-context-selection-compression
+  path: mai-specs/972-lesson-24-context-selection-compression/learning-materials
+  role: derived-distribution-copy
+deliverables:
+  - path: PRD.md
+    bytes: 7718
+    sha256: 448e306438dfd30eb967fc66fd2cdde7ca3b7c656ded4873d722185ebdcaffc5
+  - path: README.md
+    bytes: 297
+    sha256: 2f12fd7cf868b33dfb534715b52bdd3881a434d2dc64a98548d6b52a17368a54
+  - path: TECH_DESIGN.html
+    bytes: 436763
+    sha256: 2fe9fd48afe7f80d8901595ff8ac2e0b0177db324917f7d28cfd196a152b7566
+  - path: TECH_DESIGN.md
+    bytes: 63696
+    sha256: 7af132734ed9548e59ad186801c483759e06c9ea0fa5f5ef0ac2010bf4e85092

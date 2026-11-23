@@ -1,5 +1,5 @@
-# 第 21 课｜Context 架构选型：从静态 Prompt、检索增强到动态 Context Runtime
+# 第 21 课｜Context Runtime 与 PromptOps——统一上下文架构和动态提示词治理
 
 [返回篇章](../README.md) · [全课导航](../../../README.md)
 
-配套内容将随课程进度补充。
+[学习资料与离线技术方案](learning-materials/README.md)

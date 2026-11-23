@@ -1,0 +1,31 @@
+id: lesson-21-learning-materials
+lesson_number: 21
+course_track: formal
+status: review
+source:
+  repository: https://github.com/shanggqm/compass
+  feature: mai-specs/975-lesson-21-context-runtime-promptops
+  path: mai-specs/975-lesson-21-context-runtime-promptops/learning-materials
+  role: derived-distribution-copy
+deliverables:
+  - path: CODE_DESIGN.md
+    bytes: 23705
+    sha256: bdbb171e22b94f876c98be88816d47195422d2bf4ce08fe011864905ace15504
+  - path: PRD.md
+    bytes: 34375
+    sha256: 00c7601d0068fa7117d0db80c4e0377091e6d3c60776947d4aabef1f1ddd3caa
+  - path: PROMPTOPS_TECH_DESIGN.html
+    bytes: 794674
+    sha256: d12cee610b4b2e39ab5d7e6fb3da295d445ff8097c6326b58384b1706010c30e
+  - path: PROMPTOPS_TECH_DESIGN.md
+    bytes: 43116
+    sha256: 4bfc1ad1c7d78a53c8be98b0ea749be94fc09d1d4bbb86585107fa394dd34eee
+  - path: README.md
+    bytes: 511
+    sha256: 410bdc73dd7dcca0d12d1a6d320a9c1705bca60b65f147ac76ef9f109408d6bb
+  - path: TECH_DESIGN.html
+    bytes: 1512891
+    sha256: bdd1d331792be4300abe6a4568413d99e9c34d70dd5e10da9b4f97b86d4714c2
+  - path: TECH_DESIGN.md
+    bytes: 73248
+    sha256: afa2a8e7b1c17bdb77b62373da621bdeed784a76f61767eceaef30db041deeef

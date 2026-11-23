@@ -1,0 +1,34 @@
+id: lesson-22-learning-materials
+lesson_number: 22
+course_track: formal
+status: review
+source:
+  repository: https://github.com/shanggqm/compass
+  feature: mai-specs/974-lesson-22-enterprise-semantic-governance
+  path: mai-specs/974-lesson-22-enterprise-semantic-governance/learning-materials
+  role: derived-distribution-copy
+deliverables:
+  - path: PRD.md
+    bytes: 67656
+    sha256: 4cde765a092eeaf425117fef11fff91d7889f88e5dfb54c2fdf9a907e7f97f26
+  - path: README.md
+    bytes: 415
+    sha256: e2da3358794384f6183aa90304bb0455927395013e675928dac1190577641a6b
+  - path: RETAIL_SEMANTIC_ASSETS.html
+    bytes: 676866
+    sha256: 249eda7f59d5b8de57969867ce29eda1287ca7ac83535718089652bd8420b1a1
+  - path: RETAIL_SEMANTIC_ASSETS.md
+    bytes: 35675
+    sha256: 904f851293ec44a37274b2e38c6289b39e213ef3b76f755269602be98dd6116d
+  - path: TECH_DESIGN.html
+    bytes: 2834857
+    sha256: 7b7a49be97f14127f371eb1626fc7e43c11b5ed006fd6e6cf48b4ab4366831b6
+  - path: TECH_DESIGN.md
+    bytes: 46932
+    sha256: f4e722aa885a9e65340282e00383cab65eb0d998dde84ed3662e94d5473fd986
+  - path: visuals/agent-semantic-architecture.svg
+    bytes: 10554
+    sha256: fbfcc3fa71e2e65f42d70500ecaeed36e30251210fe9ac6f567ad26cdeab36e4
+  - path: visuals/lesson-22-requirements.png
+    bytes: 7473497
+    sha256: 99fe9f5a6dcaf50151d34acbb1dda445fedbe1dd82f1697ca63f4478b94852c1

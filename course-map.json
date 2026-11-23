@@ -273,27 +273,55 @@
       "lessons": [
         {
           "number": 21,
-          "title": "Context 架构选型：从静态 Prompt、检索增强到动态 Context Runtime",
+          "title": "Context Runtime 与 PromptOps——统一上下文架构和动态提示词治理",
           "path": "chapters/chapter_06_agent_context/lesson_21_context_architecture",
-          "assets": []
+          "assets": [
+            {
+              "id": "lesson-21-learning-materials",
+              "title": "第 21 课学习资料",
+              "path": "chapters/chapter_06_agent_context/lesson_21_context_architecture/learning-materials",
+              "status": "review"
+            }
+          ]
         },
         {
           "number": 22,
-          "title": "经营语义上下文：让 DataAgent 先理解指标，再接触数据",
+          "title": "企业经营语义治理——构建 AI 驱动的 DataAgent 语义层",
           "path": "chapters/chapter_06_agent_context/lesson_22_business_semantics",
-          "assets": []
+          "assets": [
+            {
+              "id": "lesson-22-learning-materials",
+              "title": "第 22 课学习资料",
+              "path": "chapters/chapter_06_agent_context/lesson_22_business_semantics/learning-materials",
+              "status": "review"
+            }
+          ]
         },
         {
           "number": 23,
-          "title": "动态上下文装配与预算：让不同 Step 只看到最小充分信息",
+          "title": "上下文获取与 Agentic Search——从语义查询到复杂任务证据收集",
           "path": "chapters/chapter_06_agent_context/lesson_23_context_assembly",
-          "assets": []
+          "assets": [
+            {
+              "id": "lesson-23-learning-materials",
+              "title": "第 23 课学习资料",
+              "path": "chapters/chapter_06_agent_context/lesson_23_context_assembly/learning-materials",
+              "status": "review"
+            }
+          ]
         },
         {
           "number": 24,
-          "title": "企业知识与 Agentic Evidence：围绕信息缺口构建可核验的证据包",
+          "title": "动态上下文选择与压缩——让每个 Token 发挥最大价值",
           "path": "chapters/chapter_06_agent_context/lesson_24_agentic_evidence",
-          "assets": []
+          "assets": [
+            {
+              "id": "lesson-24-learning-materials",
+              "title": "第 24 课学习资料",
+              "path": "chapters/chapter_06_agent_context/lesson_24_agentic_evidence/learning-materials",
+              "status": "review"
+            }
+          ]
         },
         {
           "number": 25,

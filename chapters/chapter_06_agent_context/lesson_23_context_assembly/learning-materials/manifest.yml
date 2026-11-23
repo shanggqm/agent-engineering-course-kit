@@ -1,0 +1,46 @@
+id: lesson-23-learning-materials
+lesson_number: 23
+course_track: formal
+status: review
+source:
+  repository: https://github.com/shanggqm/compass
+  feature: mai-specs/973-lesson-23-agentic-search
+  path: mai-specs/973-lesson-23-agentic-search/learning-materials
+  role: derived-distribution-copy
+deliverables:
+  - path: CODE_DESIGN.html
+    bytes: 99229
+    sha256: 4f73f53ee10290433e8658bb05f1ffdbe126e045b2ab11d73858b952934c038d
+  - path: CODE_DESIGN.md
+    bytes: 9030
+    sha256: c2a5419079abe30b604594421a95fe1c656ce03d5cb51a1958844a94816b6ff4
+  - path: EVIDENCE.html
+    bytes: 264553
+    sha256: d0fce4b1fa86104096d16bbba4843fdc539b4b31c2feb311d292cc514184b9f8
+  - path: EVIDENCE.md
+    bytes: 13470
+    sha256: 3e9b7a927b7a70f5df8815620d2c90eaf0e8cffab16523d2d1346972507c2b5b
+  - path: PRD.md
+    bytes: 32890
+    sha256: 8e16154f9318f7e30f92c2cc7ae9c045d6d67eaf8691faca7b7e74e30d65ff81
+  - path: README.md
+    bytes: 718
+    sha256: 01f5448d51c17e76e55c4fdf5f6200112231b25aa043168bb810d93ec894ad21
+  - path: RETAIL_CASE.html
+    bytes: 130193
+    sha256: f92a7ed7812bfea1be4a6e22a80d6ff54a9bede45ec7a7224ca41342a437b6cb
+  - path: RETAIL_CASE.md
+    bytes: 27263
+    sha256: 6df1bd0188359c96e812b7eccb090db2dd534c76210171700d1e4e41b65c2074
+  - path: TECH_DESIGN.html
+    bytes: 394529
+    sha256: 798eb9b3c386fa7ee7322dcf286be3cf66425c5318189db0f0ec61095acf3da9
+  - path: TECH_DESIGN.md
+    bytes: 49722
+    sha256: 63431d7187cb58eaa5535536de33499b657060651a95110385b4977f6d1de35b
+  - path: VECTOR_SEARCH.html
+    bytes: 944479
+    sha256: 049abd635d7a4e390b030f9adfd6c518c4ce7eb08ae77aa4ca919b75a8b6ce68
+  - path: VECTOR_SEARCH.md
+    bytes: 37896
+    sha256: ae437d18fc0b27a884ec4264b7357176fde97c62590fd19282b53211427afea5

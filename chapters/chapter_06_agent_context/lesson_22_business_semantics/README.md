@@ -1,5 +1,5 @@
-# 第 22 课｜经营语义上下文：让 DataAgent 先理解指标，再接触数据
+# 第 22 课｜企业经营语义治理——构建 AI 驱动的 DataAgent 语义层
 
 [返回篇章](../README.md) · [全课导航](../../../README.md)
 
-配套内容将随课程进度补充。
+[学习资料与离线技术方案](learning-materials/README.md)
